@@ -2,7 +2,7 @@
 
 This is a practice challenge created for Front-end Mentor.
 
-[View Challenge]([https://www.frontendmentor.io/solutions/news-home-page-project-dm_vRKT47p](https://www.frontendmentor.io/solutions/qr-component-coding-challenge-using-html-and-css-heHpRvDOt2))
+[View Challenge](https://www.frontendmentor.io/solutions/qr-component-coding-challenge-using-html-and-css-heHpRvDOt2)
 
 ## Technology Used
 
