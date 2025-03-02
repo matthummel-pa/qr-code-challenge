@@ -1,6 +1,8 @@
-# CSS component coding practice for Front-end Mentor
+# CSS QR Code component coding practice for Front-end Mentor
 
-This is a practice challenge created for [Front-end Mentor](https://frontendmentor.com).  
+This is a practice challenge created for Front-end Mentor.
+
+[View Challenge]([https://www.frontendmentor.io/solutions/news-home-page-project-dm_vRKT47p](https://www.frontendmentor.io/solutions/qr-component-coding-challenge-using-html-and-css-heHpRvDOt2))
 
 ## Technology Used
 
