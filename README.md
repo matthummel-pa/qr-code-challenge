@@ -1,6 +1,8 @@
-# CSS component coding practice for Front-end Mentor
+# CSS QR Code component coding practice for Front-end Mentor
 
-This is a practice challenge created for [Front-end Mentor](https://frontendmentor.com).  
+This is a practice challenge created for Front-end Mentor.
+
+[View Challenge](https://www.frontendmentor.io/solutions/qr-component-coding-challenge-using-html-and-css-heHpRvDOt2)
 
 ## Technology Used
 
@@ -10,8 +12,6 @@ This is a practice challenge created for [Front-end Mentor](https://frontendment
 ## Challenges Faced
 
 I had trouble lining up the container box in the center as well as making it responsive.  To address the issue I used I used the display property of flex and justify content center.  
-
-I wanted to personalize the project by trying to figure out how to create my own qr code. For this I used Canva's free QR code generator.
 
 ## Let's Connect!
 
